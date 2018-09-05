@@ -1,9 +1,17 @@
 #name {
   text-align: center;
   font-family: Arial, sans-serif;
+  font-weight: normal;
 }
 
 #title {
   text-align: center;
   font-family: Arial, sans-serif;
+  font-weight: normal;
+}
+
+.introParagraph {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  margin-top: 40px;
 }
