@@ -25,3 +25,24 @@ body {
   font-family: Arial, sans-serif;
   margin-top: 40px;
 }
+
+#topRowContainer {
+  width: 100%;
+  border: 1px solid blue;
+  height: 100px;
+}
+
+#ciqImage {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 1px solid pink;
+  width: 50%;
+  float: left;
+}
+
+#ciqDescription {
+  margin-top: 40px;
+  border: 1px solid green;
+  width: 50%;
+  float: right;
+}
