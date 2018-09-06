@@ -29,7 +29,7 @@ body {
 #topRowContainer {
   width: 100%;
   border: 1px solid blue;
-  height: 100px;
+  height: 100%;
 }
 
 #ciqImage {
